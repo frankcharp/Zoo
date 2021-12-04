@@ -3,10 +3,11 @@ namespace ConsoleTest5
 {
     class Program
     {
-        static void Main(string[] args)
+      
+	static void Main(string[] args)
         {
             Console.WriteLine("Welcome to ZOO");
-	    Zebra zebra = new Zebra();
+	    Zebra zebra = new Zebra();  
         }
     }
 }
