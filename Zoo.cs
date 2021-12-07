@@ -8,6 +8,7 @@ namespace ConsoleTest5
         {
             Console.WriteLine("Welcome to ZOO");
 	    Zebra zebra = new Zebra();  
+            Hippo hippo = new Hippo();
         }
     }
 }
